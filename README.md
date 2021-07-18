@@ -1,3 +1,3 @@
 # joejenett.github.io
  
-Working on it...
+Working on it, rearranging some things.
