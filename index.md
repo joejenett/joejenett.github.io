@@ -7,7 +7,7 @@ layout: home
 <div style="border-bottom:1px solid #ddd;padding-bottom:12px;margin-bottom:12px;">
 <div class="containerf">
 	<div class="onef">
-		<p>I'm joe jenett, a designer/frontend guy. I’ve been around the web since 1996 and operate the <a href="https://hub.iwebthings.com/" title=""><em>i.webthings hub</em></a>, home to my <em>webthings</em>, several of which are updated daily.</p>
+		<p>I'm joe jenett, a designer/frontend guy. I’ve been around the web since 1996 and operate the <a href="https://iwebthings.jenett.org/" title=""><em>i.webthings hub</em></a>, home to my <em>webthings</em>, several of which are updated daily.</p>
 
 		<p>Among my active sites, 4 use Wordpress, one docuwiki, one TiddlyWiki, and the other, hand-coded html with Perl. I’m having fun exploring Jekyll and github. Thanks for visiting!</p>
 	</div>
