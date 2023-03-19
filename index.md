@@ -8,8 +8,6 @@ layout: home
 <div class="containerf">
 	<div class="onef">
 		<p>I'm joe jenett, a designer/frontend guy. I’ve been around the web since 1996 and operate the <a href="https://iwebthings.jenett.org/" title=""><em>i.webthings hub</em></a>, home to my <em>webthings</em>, several of which are updated daily.</p>
-
-
 	</div>
 	<div class="twof">
 
