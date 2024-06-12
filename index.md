@@ -21,7 +21,10 @@ layout: home
 				</p>
 			</div>
 		</div>
-		<p style="margin-bottom:100px;">I'm joe jenett, a designer/frontend guy. I’ve been around the web since 1996 and operate the <a href="https://iwebthings.joejenett.com/" title=""><em>i.webthings hub</em></a>, home to my various <em>webthings</em>.</p>
+		<p>I'm joe jenett, a designer/frontend guy. I’ve been around the web since 1996 and operate the <a href="https://iwebthings.joejenett.com/" title=""><em>i.webthings hub</em></a>, home to my various <em>webthings</em>.</p>
+		<p style="margin-bottom:32px;">
+			06/12/24: A complete overhaul/redesign is in progress.
+		</p>
 	</div>
 	<div class="twof">
 
