@@ -372,11 +372,11 @@ line-height:1.2em;
 	display:flex;flex-direction: row;flex-wrap:wrap;
 }
 .onef {
-width:60%;;	
+width:100%;;	
 }
-.twof {
+/*.twof {
 width:39%;text-align:center;	
-}
+}*/
 
 @media only screen and (max-width:479px) {
 	.containerf {
