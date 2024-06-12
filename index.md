@@ -26,9 +26,6 @@ layout: home
 			06/12/24: A complete overhaul/redesign is in progress.
 		</p>
 	</div>
-	<div class="twof">
-
-		
-	</div>
+	
 </div>
 </div>
