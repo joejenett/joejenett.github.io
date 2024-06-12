@@ -2,3 +2,10 @@
 	font-size:32px;
 	font-weight:600;
 }
+.wrapper {
+max-width: calc(800px - (30px * 2));
+margin-right: auto;
+margin-left: auto;
+padding-right: 30px;
+padding-left: 30px;
+}
