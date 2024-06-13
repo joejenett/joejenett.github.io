@@ -22,7 +22,7 @@ layout: home
 			</div>
 		</div>
 		<p style="margin-bottom:84px;">
-			I'm joe jenett, a designer/frontend guy. I’ve been around the web since 1996 and operate the <a href="https://iwebthings.joejenett.com/" title=""><em>i.webthings hub</em></a>, home to my various <em>webthings</em>.
+			I'm joe jenett, a designer/frontend guy. I’ve been around the web since 1996 and operate the <a href="https://iwebthings.joejenett.com/" title=""><em>i.webthings hub</em></a> and a number of other <em>webthings</em>.
 		</p>
 	</div>
 	
