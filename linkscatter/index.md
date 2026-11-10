@@ -1,6 +1,6 @@
 ---
 layout: page
-title: linkscatter
+title: joe.jenett at github | linkscatter
 ---
 
 <p>
